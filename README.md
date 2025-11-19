@@ -15,20 +15,19 @@ Support operational planning and efficiency improvement using actionable insight
 **📈 Visuals Included**
 
 1.Bar charts for average/median wait times by Time Bands and Age Profile
+
 2.Donut chart for waiting list by case type 
+
 3.KPI cards for totals and performance snapshots
+
 4.Drill down filter by Case Type and Speciality Name 
 
 **🛠️ Tools & Technologies**
 
-1.Power BI Desktop
-2.DAX Measures for calculating averages, medians, and dynamic filters
+Power BI Desktop , DAX Measures for calculating averages, medians, and dynamic filters
 
 **🚀 Advancements & Enhancements**
 
-1.Cascading filters and interactive drill-through pages
-2.Improved UI with consistent visuals and storytelling elements
-3.Data quality checks and clean transformation pipeline
-4.Performance tuning to reduce model size and load time
+Cascading filters and interactive drill-through pages . Improved UI with consistent visuals and storytelling elements . Data quality checks and clean transformation pipeline . Performance tuning to reduce model size and load time
 
 
