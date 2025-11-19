@@ -6,10 +6,11 @@ The dashboard enables stakeholders to monitor service demand, identify bottlenec
 
 🎯 Objectives
 
-1.Provide clear visibility into patient waiting lists and their distribution.
-2.Compare average and median waiting times across various dimensions.
-3.Analyze case types (e.g.Day Case , inpatient, outpatient) and their contribution to patient load.
-4.Enable specialty-level filtering for deeper drill-down insights.
+Provide clear visibility into patient waiting lists and their distribution.
+Compare average and median waiting times across various dimensions.
+Analyze case types (e.g., Day Case , inpatient, outpatient) and their contribution to patient load.
+Enable specialty-level filtering for deeper drill-down insights.
+Support operational planning and efficiency improvement using actionable insights.
 
 📈 Visuals Included
 1.Bar charts for average/median wait times by Time Bands and Age Profile
